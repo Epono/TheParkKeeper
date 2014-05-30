@@ -1,0 +1,7 @@
+1) Ctrl+Z, Ctrl+Y
+2) Améliorer les algos et l'IHM
+3) Légende sur les boutons
+4) Nouveaux algos
+5) Gérer multilingue
+6) Guide 1ère utilisation interactif
+7) Réglage volume
